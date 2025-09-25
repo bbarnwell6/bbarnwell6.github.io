@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Computer Science at Georgia Tech with a strong interest in advancing health care through innovative technology. With undergraduate degrees in Computer Science and Business Administration, I bring a multidisciplinary perspective to complex problems at the intersection of computing, data, and human health.
+I am currently a PhD student in Computer Science at Georgia Tech with a strong interest in advancing health care through innovative technology. With undergraduate degrees in Computer Science and Business Administration from the Jeffrey S. Raikes School of Computer Science and Management at the University of Nebraska-Lincoln, I bring a multidisciplinary perspective to complex problems at the intersection of computing, data, and human health.
 
 My research experience spans from studying neuroscience and brain injury to upcoming work focused on cardiac arrhythmias. These experiences have reinforced my belief in the potential of computational tools, particularly machine learning and data-driven systems, to improve diagnostics, treatment, and overall patient outcomes.
 
