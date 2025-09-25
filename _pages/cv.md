@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Georgia Institute of Technology, 2030 (expected)
+* B.S. in Business Administration, University of Nebraska-Lincoln, 2025
+* B.S. in Computer Science, University of Nebraska-Lincoln, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2025-Present: Graduate Research Assistant
+  * Georgia Institute of Technology
+  * Conducting interdisciplinary research in computational cardiac electrophysiology
+  * Working under Dr. Elizabeth Cherry
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2022-August 2025: Undergraduate Research Assistant
+  * University of Nebraska-Lincoln
+  * Center for Brain, Biology, and Behavior
+  * Worked under Dr. Douglas Schultz
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Software Engineering Intern
+  * Medtronic
+  * Diabetes application testing on Android OS
+
+* Summer 2023: Growth Engineering Intern
+  * Speedway Motors
+  * Developed cross-functional software solutions and analyzed ad spend
+
+* Summer 2022: Growth Engineering Intern
+  * Spreetail
+  * Improved email data visibility and usability
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Machine Learning/Artifical Intelligence
+* Health Applications
 
 Publications
 ======
@@ -47,13 +51,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
