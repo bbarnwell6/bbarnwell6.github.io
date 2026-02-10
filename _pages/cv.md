@@ -8,14 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+To request a full copy of my CV, please email me. 
 
 Education
 ======
-* Ph.D in Computer Science, Georgia Institute of Technology, 2030 (expected)
-* B.S. in Business Administration, University of Nebraska-Lincoln, 2025
-* B.S. in Computer Science, University of Nebraska-Lincoln, 2025
+* Ph.D in Computer Science, Georgia Institute of Technology, 2025-Present
+* B.S. in Business Administration, University of Nebraska-Lincoln, 2021-2025
+* B.S. in Computer Science, University of Nebraska-Lincoln, 2021-2025
 
-Work experience
+
+<!-- Work experience
 ======
 * August 2025-Present: Graduate Research Assistant
   * Georgia Institute of Technology
@@ -37,11 +39,11 @@ Work experience
 
 * Summer 2022: Growth Engineering Intern
   * Spreetail
-  * Improved email data visibility and usability
+  * Improved email data visibility and usability -->
   
 Skills
 ======
-* Python
+* Python (Scikit-learn, PyTorch, TensorFlow, NumPy)
 * Machine Learning/Artifical Intelligence
 * Health Applications
 
